@@ -1,1 +1,1 @@
-13 bugs fixed on 9/27/2020
+3 bugs fixed on 11/27/2020
